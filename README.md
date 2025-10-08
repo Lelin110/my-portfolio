@@ -11,9 +11,7 @@
 ---
 
 ### 🧭 About Me
-I'm a <b>Business Analyst passionate about digital service design and process improvement</b>.  
-I focus on transforming business needs into efficient, user-centric digital systems.  
-With a strong background in requirement gathering, workflow design, and system optimization,  
+I'm a <b>Business Analyst passionate about digital service design and process improvement</b>. I focus on transforming business needs into efficient, user-centric digital systems.With a strong background in requirement gathering, workflow design, and system optimization,  
 I help teams build smarter and more scalable digital services.
 
 ---
@@ -52,7 +50,7 @@ I help teams build smarter and more scalable digital services.
 |----------|--------------|--------|
 | [**BSTI e-Application System**](#) | Digitized the certification application process improving efficiency and transparency. | Jira, Lucidchart, Power BI |
 | [**www.mygov**](#) | Implementation Assistant work: Deployed 200+ services and conducted 50+ workshops on MyGov.bd
- | Power BI, Excel |
+| Power BI, Excel |
 | [**Digital Training Portal**](#) | Designed and documented process workflows for online training management. | HTML, CSS, Jira |
 
 ---
